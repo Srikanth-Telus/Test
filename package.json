@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srikanth-Telus/Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srikanth-Telus/Test/issues"
+  },
+  "homepage": "https://github.com/Srikanth-Telus/Test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
+{
+  "name": "hello-world-github-actions",
+  "version": "1.0.0",
+  "main": "src/hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
