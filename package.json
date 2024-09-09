@@ -23,7 +23,7 @@
 }
 
 {
-  "name": "hello-world-github-actions",
+  "name": "Test",
   "version": "1.0.0",
   "main": "src/hello.js",
   "scripts": {
